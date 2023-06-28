@@ -37,11 +37,11 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/60943
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/201928
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: Canal 24 Horas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png" group-title="TDT",ES: Canal 24 Horas
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2216
-#EXTINF:-1 tvg-id="" tvg-name="ES: CNN en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="title="TDT",ES: ",ES: CNN en Espanol
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNN en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed51eda47ce082e6ab48b65848b7bc2c.png" group-title="TDT",ES: ",ES: CNN en Espanol
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/31762
-#EXTINF:-1 tvg-id="" tvg-name="ES: Congreso de los Diputados 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/384bdebd39d8bebceda16e1240cca388.png" group-title="title="TDT",ES: Congreso de los Diputados 1
+#EXTINF:-1 tvg-id="" tvg-name="ES: Congreso de los Diputados 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/384bdebd39d8bebceda16e1240cca388.png" group-title="TDT",ES: Congreso de los Diputados 1
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285747
-#EXTINF:-1 tvg-id="" tvg-name="ES: Congreso de los Diputados 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4ec65080bfcfc20b83ac8cb2e2fbd4be.png" group-title="title="TDT",ES: Congreso de los Diputados 2
+#EXTINF:-1 tvg-id="" tvg-name="ES: Congreso de los Diputados 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4ec65080bfcfc20b83ac8cb2e2fbd4be.png" group-title="TDT",ES: Congreso de los Diputados 2
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285748
 #EXTINF:-1 tvg-id="nova.es" tvg-name="ES: Nova" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b3a6fb4467acc43181b4e9edaa4c577.png" group-title="TDT",ES: Nova
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2189
@@ -55,7 +55,14 @@ http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303698
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/5303
 #EXTINF:-1 tvg-id="boing.es" tvg-name="ES: Boing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbc7afa6c6ed3ee73fbb53c33d5d42ca.jpg" group-title="TDT",ES: Boing
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1169
-
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: Mega" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e27155f9dc6758a2bc2fb2b510b5006a.png" group-title="TDT",ES: Mega
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2190
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hit TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b0e4445ee0db0e29c515cebb44e0f738.png" group-title="TDT",ES: Hit TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281789
+#EXTINF:-1 tvg-id="" tvg-name="ES: Factoria de Ficcion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png" group-title="TDT",ES: Factoria de Ficcion
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2207
+#EXTINF:-1 tvg-id="" tvg-name="ES: Distrito TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/672158c1d2769e8fd607c8d7faeff387.png" group-title="TDT",ES: Distrito TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/201938
 
 ####AUTONOMICAS######
 #EXTINF:-1 tvg-id="1" tvg-name="ES: Canal Malaga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ee0005b7bb187dca55aa851e740cf8cd.jpg" group-title="Autonomicas",ES: Canal Malaga
@@ -154,12 +161,32 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/269932
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/146410
 #EXTINF:-1 tvg-id="" tvg-name="ES: Diez TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/71106794d78a85cfb4701890feac9baf.png" group-title="Autonomicas",ES: Diez TV
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/269929
-#EXTINF:-1 tvg-id="" tvg-name="ES: El 33" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b1cecd26db2672961160340951caf89.png" group-title="Autonomica",ES: El 33
+#EXTINF:-1 tvg-id="" tvg-name="ES: El 33" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0b1cecd26db2672961160340951caf89.png" group-title="Autonomicas",ES: El 33
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/294892
 #EXTINF:-1 tvg-id="" tvg-name="ES: Costa Noroeste TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d9941a792471551bb067dcce396ee518.png" group-title="Autonomicas",ES: Costa Noroeste TV
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285752
 #EXTINF:-1 tvg-id="" tvg-name="ES: CostadelSol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6ed0ace9a6ce00317bd0cbc30f76cc7.png" group-title="Autonomicas",ES: CostadelSol TV
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/295246
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/09521cc6c09dbd9d7613d5490d43b164.png" group-title="Autonomicas",ES: ETB 1
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/165969
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c148cdb4e0470d55c8ed9a162e21fd4.png" group-title="Autonomicas",ES: ETB 2
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/165970
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB Basque" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9e0b8b297c29e30924d1047ec218633f.png" group-title="Autonomicas",ES: ETB Basque
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/50135
+#EXTINF:-1 tvg-id="" tvg-name="ES: Imas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f8f2d34eb5319be7cc848a79eb844989.png" group-title="Autonomicas",ES: Imas TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/269931
+#EXTINF:-1 tvg-id="" tvg-name="ES: Inter Almeria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cdac828371f1bc05e69da9d1688cf1b3.png" group-title="Autonomicas",ES: Inter Almeria
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/81640
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Autonomicas",ES: LA 7
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285768
+#EXTINF:-1 tvg-id="" tvg-name="ES: Lancelot TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1f66bc0966a9eaa347ad77dbec125d56.png" group-title="Autonomicas",ES: Lancelot TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/12159
+#EXTINF:-1 tvg-id="" tvg-name="ES: Maestrat TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8d55cd1b13f1a4959108bfbe46499ca8.png" group-title="Autonomicas",ES: Maestrat TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285784
+#EXTINF:-1 tvg-id="" tvg-name="ES: Marbella TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/59d8ed19127c01bddc81c93d827536dd.jpg" group-title="Autonomicas",ES: Marbella TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/174751
+#EXTINF:-1 tvg-id="" tvg-name="ES: Molahits TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9469cfef933b9572c60924f446ae6104.png" group-title="Autonomicas",ES: Molahits TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281793
 
 
 ####PAGO#####
@@ -319,8 +346,22 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/295008
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303971
 #EXTINF:-1 tvg-id="" tvg-name="ES: Crime District" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/cae0add4c12c6a739cc706f2cf399130.png" group-title="Movistar",ES: Crime District
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/298744
-
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: Drive IN Movie Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movistar",ES: Drive IN Movie Channel
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/298746
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol Play" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/ccb91032c19e700decd75fbfd56e7bda.jpg" group-title="Movistar",ES: Gol Play
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/297246
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ddccaaa4a4361f253c7c1ec57d8af52.png" group-title="Movistar",ES: Hola TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/3061
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/653a9bf73378390a84bfd6bde2c17b8b.jpg" group-title="Movistar",ES: Hollywood
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/297243
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: Iberalia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" group-title="Movistar",ES: Iberalia TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2793
+#EXTINF:-1 tvg-id="" tvg-name="ES: Ibiza Global TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/eb2c075b206e452cd2726da805356cf5.png" group-title="Movistar",ES: Ibiza Global TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285763
+#EXTINF:-1 tvg-id="" tvg-name="ES: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a803d238410485830062214859e54978.png" group-title="Movistar",ES: Investigation Discovery
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/27790
+#EXTINF:-1 tvg-id="" tvg-name="ES: Locomotion TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movistar",ES: Locomotion TV
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/286055
 
 ####DEPORTES####
 #EXTINF:-1 tvg-id="1" tvg-name="ES: Laliga Smartbank TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg" group-title="Deportes",ES: Laliga Smartbank TV HD
@@ -445,109 +486,14 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/8110
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1142
 #EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f776a81abf0db9643bdbc1d785285578.jpg" group-title="Deportes",ES: Esport 3
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/7445
-
-
-###########################################################################################################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Distrito TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/672158c1d2769e8fd607c8d7faeff387.png" group-title="Spain",ES: Distrito TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/201938
-#EXTINF:-1 tvg-id="" tvg-name="ES: Drive IN Movie Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Drive IN Movie Channel
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/298746
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: EL Pinguino TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8001eedd35de43149a920591e6cb2080.png" group-title="Spain",ES: EL Pinguino TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/53887
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESNE TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e5c1a90ef82927e66376aa02b3110410.png" group-title="Spain",ES: ESNE TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/76224
-#EXTINF:-1 tvg-id="" tvg-name="ES: Esperanza TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93c1b6e28b9f3964cb15a2779ba982c6.png" group-title="Spain",ES: Esperanza TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/11119
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="Spain",ES: ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9e115dbf65e6d57e284718788f7f6338.png" group-title="Deportes",ES: ESPN
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/90708
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec52431ae56bf89fe9aec30084bd613f.png" group-title="Spain",ES: ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ec52431ae56bf89fe9aec30084bd613f.png" group-title="Deportes",ES: ESPN 2
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281480
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5c432b98e228de745d3de84f5526e459.png" group-title="Spain",ES: ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/5c432b98e228de745d3de84f5526e459.png" group-title="Deportes",ES: ESPN 3
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281403
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e79116fd84fbb5bb76c050ae09684729.png" group-title="Spain",ES: ESPN Deportes
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281417
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/09521cc6c09dbd9d7613d5490d43b164.png" group-title="Spain",ES: ETB 1
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/165969
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c148cdb4e0470d55c8ed9a162e21fd4.png" group-title="Spain",ES: ETB 2
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/165970
-#EXTINF:-1 tvg-id="" tvg-name="ES: ETB Basque" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9e0b8b297c29e30924d1047ec218633f.png" group-title="Spain",ES: ETB Basque
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/50135
-#EXTINF:-1 tvg-id="" tvg-name="ES: euronews en Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/822ce6f0945493fe8c121d8e98e31a7a.png" group-title="Spain",ES: euronews en Espanol
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/282292
-#EXTINF:-1 tvg-id="" tvg-name="ES: Factoria de Ficcion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png" group-title="Spain",ES: Factoria de Ficcion
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2207
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fibwi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/d2530efad7ccb2c3437f98504bf280d7.jpg" group-title="Spain",ES: Fibwi TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/296941
-#EXTINF:-1 tvg-id="" tvg-name="ES: France 24" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ea130cc3a9970f58dc065142be9ff96.png" group-title="Spain",ES: France 24
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/9148
-#EXTINF:-1 tvg-id="" tvg-name="ES: Goiena Eus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2f13b8988146a2ab11c3b5bb49f267ef.png" group-title="Spain",ES: Goiena Eus
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285761
 #EXTINF:-1 tvg-id="gol.es" tvg-name="ES: Gol" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7ae2b23972da8518c6ac18a192581947.png" group-title="Deportes",ES: Gol
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1156
-#EXTINF:-1 tvg-id="" tvg-name="ES: Gol Play" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/ccb91032c19e700decd75fbfd56e7bda.jpg" group-title="Movistar",ES: Gol Play
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/297246
-#EXTINF:-1 tvg-id="" tvg-name="ES: Hit TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b0e4445ee0db0e29c515cebb44e0f738.png" group-title="Spain",ES: Hit TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281789
-#EXTINF:-1 tvg-id="" tvg-name="ES: Hola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ddccaaa4a4361f253c7c1ec57d8af52.png" group-title="Spain",ES: Hola TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/3061
-#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/653a9bf73378390a84bfd6bde2c17b8b.jpg" group-title="Movistar",ES: Hollywood
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/297243
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: Iberalia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" group-title="Spain",ES: Iberalia TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2793
-#EXTINF:-1 tvg-id="" tvg-name="ES: Ibiza Global TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/eb2c075b206e452cd2726da805356cf5.png" group-title="Spain",ES: Ibiza Global TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285763
-#EXTINF:-1 tvg-id="" tvg-name="ES: Imas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f8f2d34eb5319be7cc848a79eb844989.png" group-title="Spain",ES: Imas TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/269931
-#EXTINF:-1 tvg-id="" tvg-name="ES: Inter Almeria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cdac828371f1bc05e69da9d1688cf1b3.png" group-title="Spain",ES: Inter Almeria
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/81640
-#EXTINF:-1 tvg-id="" tvg-name="ES: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a803d238410485830062214859e54978.png" group-title="Spain",ES: Investigation Discovery
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/27790
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Autonomicos",ES: LA 7
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285768
-#EXTINF:-1 tvg-id="" tvg-name="ES: La URBAN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/df6495ddbc6ae04e870112469438bda7.png" group-title="Spain",ES: La URBAN TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285780
-#EXTINF:-1 tvg-id="" tvg-name="ES: Lancelot TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1f66bc0966a9eaa347ad77dbec125d56.png" group-title="Spain",ES: Lancelot TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/12159
-#EXTINF:-1 tvg-id="" tvg-name="ES: Locomotion TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Locomotion TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/286055
-#EXTINF:-1 tvg-id="" tvg-name="ES: Logos TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/4c3b1d763d904aa50431a94771210f24.png" group-title="Spain",ES: Logos TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281790
-#EXTINF:-1 tvg-id="" tvg-name="ES: Maestrat TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8d55cd1b13f1a4959108bfbe46499ca8.png" group-title="Spain",ES: Maestrat TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285784
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/a593ab94031afc33dd7e904d794c9b08.png" group-title="Spain",ES: Mar TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/166347
-#EXTINF:-1 tvg-id="" tvg-name="ES: Marbella TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/59d8ed19127c01bddc81c93d827536dd.jpg" group-title="Spain",ES: Marbella TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/174751
-#EXTINF:-1 tvg-id="" tvg-name="ES: MavTV Europe" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/057b4e7cbec3812a2dfeaa2dcacd5366.png" group-title="Spain",ES: MavTV Europe
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285845
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: Mega" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e27155f9dc6758a2bc2fb2b510b5006a.png" group-title="TDT",ES: Mega
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2190
-#EXTINF:-1 tvg-id="" tvg-name="ES: Molahits TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9469cfef933b9572c60924f446ae6104.png" group-title="Spain",ES: Molahits TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/281793
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -557,26 +503,7 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/66953
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285793
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: RT Español" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d0e480ee3a1003ca35a0b12936c604c8.png" group-title="Spain",ES: RT Español
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/166663
-#EXTINF:-1 tvg-id="" tvg-name="ES: RTV Vida" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/19fa9d93e325e52d950b696a7b05b314.png" group-title=""Spain",ES: RTV Vida
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285797
-#EXTINF:-1 tvg-id="" tvg-name="ES: RTVC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/f8c4059f43a5edc2586ffa36bd305d28.png" group-title="Spain",ES: RTVC
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/11809
-
-
-
-
-
-
-
-
-
-
-
-
-
+###########################################################################################################################################################################
 
 #EXTINF:-1,Directv Sports FHD (ECU)
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/312882
