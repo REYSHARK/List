@@ -7,8 +7,8 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1151
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1150
 #EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png" group-title="TDT",ES: Antena 3 HD
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1173
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: Cuatro" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acd07ea43d2313a1f42e16375f7a794b.png" group-title="TDT",ES: Cuatro
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1163
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: Cuatro" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acd07ea43d2313a1f42e16375f7a794b.png" group-title="TDT",ES: Cuatro HD
+http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303677
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: Telecinco" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e30d6e2da13306ab5d858ec08ced2d6f.png" group-title="TDT",ES: Telecinco FHD
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/1133
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: Telecinco" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e30d6e2da13306ab5d858ec08ced2d6f.png" group-title="TDT",ES: Telecinco HD 2Mb
@@ -81,9 +81,9 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/146345
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/165149
 #EXTINF:-1 tvg-id="" tvg-name="ES: 8TV Madrid" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/df7cee210286e5178a276bf27eb31b05.png" group-title="Autonomicas",ES: 8TV Madrid HD
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/75902
-#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Autonomicas",ES: Galicia TV
-http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2192
 #EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Autonomicas",ES: Galicia TV HD
+http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/2192
+#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1dc5d2437598b17f99bbbdbe8e309037.png" group-title="Autonomicas",ES: Galicia TV HD2
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303723
 #EXTINF:-1 tvg-id="" tvg-name="ES: GCM TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a7c14fd2505d67d23a3b7d31d63326da.png" group-title="Autonomicas",ES: GCM TV
 http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285760
@@ -506,9 +506,9 @@ http://37.49.230.161:8080/mitrovic/tCTz8ZhyevV2qQYW/285793
 
 
 ###########################################################################################################################################################################
-
-#EXTINF:-1,Directv Sports FHD (ECU)
+#EXTINF:-1 tvg-id="" tvg-name="ES: Directv Sports FHD" tvg-logo="http://s3.i3.png" group-title="Random",ES: Directv Sports FHD (ECU)
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/312882
+
 #EXTINF:-1,Directv Sports + FHD (CO)
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/312886
 #EXTINF:-1,Directv Sports 2 HD (LAT)
@@ -561,13 +561,10 @@ http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303674
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303675
 #EXTINF:-1,ES: Cuatro SD
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303676
-#EXTINF:-1,ES: Cuatro HD 2Mb
-http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303677
 #EXTINF:-1,ES: Cuatro FHD
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303678
 #EXTINF:-1,ES: TeleCinco SD
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303679
-
 #EXTINF:-1,ES: La Sexta SD
 http://102.165.51.185:80/NbuuHuMf/8fLUiVaBWhugDZS/303682
 #EXTINF:-1,ES: La Sexta HD 2Mb
