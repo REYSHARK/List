@@ -204,87 +204,6 @@
 	<channel id="Mitele_Eventos_2.TV">
 		<display-name>Mitele_Eventos_2.TV</display-name>
 	</channel>
-	<channel id="Xarxa_Televisio_BDN.TV">
-		<display-name>Xarxa_Televisio_BDN.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal_Terres_Ebre.TV">
-		<display-name>Xarxa_Canal_Terres_Ebre.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal_Taronja_Anoia.TV">
-		<display-name>Xarxa_Canal_Taronja_Anoia.TV</display-name>
-	</channel>
-	<channel id="Xarxa_El_9_TV.TV">
-		<display-name>Xarxa_El_9_TV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal21_Ebre.TV">
-		<display-name>Xarxa_Canal21_Ebre.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal_Taronja_Central.TV">
-		<display-name>Xarxa_Canal_Taronja_Central.TV</display-name>
-	</channel>
-	<channel id="Xarxa_TAC12.TV">
-		<display-name>Xarxa_TAC12.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal_Blau.TV">
-		<display-name>Xarxa_Canal_Blau.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Televisio_Ripolles.TV">
-		<display-name>Xarxa_Televisio_Ripolles.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Cugat_Media.TV">
-		<display-name>Xarxa_Cugat_Media.TV</display-name>
-	</channel>
-	<channel id="Xarxa_ETV.TV">
-		<display-name>Xarxa_ETV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_TV_Sabadell_Valles.TV">
-		<display-name>Xarxa_TV_Sabadell_Valles.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal_Reus_TV.TV">
-		<display-name>Xarxa_Canal_Reus_TV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_TV_Girona.TV">
-		<display-name>Xarxa_TV_Girona.TV</display-name>
-	</channel>
-	<channel id="Xarxa_VOTV.TV">
-		<display-name>Xarxa_VOTV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_TV_Bergueda.TV">
-		<display-name>Xarxa_TV_Bergueda.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Televisio_Hospitalet.TV">
-		<display-name>Xarxa_Televisio_Hospitalet.TV</display-name>
-	</channel>
-	<channel id="Xarxa_LleidaTV.TV">
-		<display-name>Xarxa_LleidaTV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_EmpordaTV.TV">
-		<display-name>Xarxa_EmpordaTV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal_10_Emporda.TV">
-		<display-name>Xarxa_Canal_10_Emporda.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Olot_TV.TV">
-		<display-name>Xarxa_Olot_TV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Penedes_TV.TV">
-		<display-name>Xarxa_Penedes_TV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Banyoles_TV.TV">
-		<display-name>Xarxa_Banyoles_TV.TV</display-name>
-	</channel>
-	<channel id="Xarxa_TVMataro.TV">
-		<display-name>Xarxa_TVMataro.TV</display-name>
-	</channel>
-	<channel id="Xarxa_TV_Costa_Brava.TV">
-		<display-name>Xarxa_TV_Costa_Brava.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Valles_Visio.TV">
-		<display-name>Xarxa_Valles_Visio.TV</display-name>
-	</channel>
-	<channel id="Xarxa_Canal_Terrassa.TV">
-		<display-name>Xarxa_Canal_Terrassa.TV</display-name>
-	</channel>
 	<channel id="ElConfidencial.TV">
 		<display-name>ElConfidencial.TV</display-name>
 	</channel>
@@ -443,5 +362,14 @@
 	</channel>
 	<channel id="PTV_Malaga.TV">
 		<display-name>PTV_Malaga.TV</display-name>
+	</channel>
+        <channel id="Anime Vision (1080p)">
+		<display-name>Anime Vision (1080p)</display-name>
+	</channel>
+        <channel id="Anime Vision Classics (1080p)">
+		<display-name>Anime Vision Classics (1080p)</display-name>
+	</channel>
+        <channel id="Anime Zone TV (480p)">
+		<display-name>Anime Zone TV (480p)</display-name>
 	</channel>
 </tv>
