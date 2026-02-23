@@ -1,0 +1,123 @@
+#EXTM3U x-tvg-url="http://192.168.1.157/output/epg" url-tvg="http://192.168.1.157/output/epg"
+#EXTINF:-1 tvg-id="1" tvg-name="La 1 (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/17/cache/" tvg-chno="1" group-title="General;Public",La 1 (720p)
+http://192.168.1.157/proxy/ts/stream/679cd0fc-bd7f-4433-a7c6-011a35fe421e
+#EXTINF:-1 tvg-id="1" tvg-name="La 1 HEVC (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/17/cache/" tvg-chno="1" group-title="General;Public",La 1 HEVC (1080p)
+http://192.168.1.157/proxy/ts/stream/ce4df019-87c0-4c55-a35d-98591c6c38c4
+#EXTINF:-1 tvg-id="2" tvg-name="La 2 (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/19/cache/" tvg-chno="2" group-title="General;Public",La 2 (1080p)
+http://192.168.1.157/proxy/ts/stream/7e85ea9b-00c5-40cd-80ac-05a335ae2f24
+#EXTINF:-1 tvg-id="3" tvg-name="Antena 3 (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/4/cache/" tvg-chno="3" group-title="General",Antena 3 (1080p)
+http://192.168.1.157/proxy/ts/stream/239c124e-c394-4934-b3b0-f2249efdb065
+#EXTINF:-1 tvg-id="4" tvg-name="Cuatro (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/10/cache/" tvg-chno="4" group-title="General",Cuatro (1080p)
+http://192.168.1.157/proxy/ts/stream/f9d1abc8-c6a1-4b14-82cf-b555133e5c1a
+#EXTINF:-1 tvg-id="5" tvg-name="Telecinco (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/53/cache/" tvg-chno="5" group-title="General",Telecinco (1080p)
+http://192.168.1.157/proxy/ts/stream/37d00e2b-51ac-48f8-ba7b-5bec857b9f28
+#EXTINF:-1 tvg-id="6" tvg-name="La Sexta (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/20/cache/" tvg-chno="6" group-title="Entertainment",La Sexta (1080p)
+http://192.168.1.157/proxy/ts/stream/cf6144ac-70ea-4653-92ef-1a55a2385c0e
+#EXTINF:-1 tvg-id="6" tvg-name="Alcarria TV (576p) [Not 24/7]" tvg-logo="http://192.168.1.157/api/channels/logos/6/cache/" tvg-chno="6" group-title="General",Alcarria TV (576p) [Not 24/7]
+http://192.168.1.157/proxy/ts/stream/48676151-00c5-4aea-a917-a2c6861f0a2e
+#EXTINF:-1 tvg-id="7" tvg-name="Atreseries (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/7/cache/" tvg-chno="7" group-title="Series",Atreseries (1080p)
+http://192.168.1.157/proxy/ts/stream/5104bd3c-e278-4388-870f-34bc001e318f
+#EXTINF:-1 tvg-id="8" tvg-name="Be Mad (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/8/cache/" tvg-chno="8" group-title="Undefined",Be Mad (1080p)
+http://192.168.1.157/proxy/ts/stream/8e6acdbe-555f-4168-8f25-683ddb90aa60
+#EXTINF:-1 tvg-id="9" tvg-name="Clan (1280p)" tvg-logo="http://192.168.1.157/api/channels/logos/9/cache/" tvg-chno="9" group-title="Kids;Public",Clan (1280p)
+http://192.168.1.157/proxy/ts/stream/e571bb51-6665-4a04-95a7-d19671515461
+#EXTINF:-1 tvg-id="11" tvg-name="Divinity (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/11/cache/" tvg-chno="11" group-title="Lifestyle",Divinity (1080p)
+http://192.168.1.157/proxy/ts/stream/6b611b37-d1ba-44b2-9a4f-365d0e2126ee
+#EXTINF:-1 tvg-id="12" tvg-name="Energy (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/12/cache/" tvg-chno="12" group-title="Entertainment",Energy (1080p)
+http://192.168.1.157/proxy/ts/stream/ea014caa-682b-437a-867d-377a0defc98b
+#EXTINF:-1 tvg-id="13" tvg-name="FDF (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/13/cache/" tvg-chno="13" group-title="Entertainment",FDF (1080p)
+http://192.168.1.157/proxy/ts/stream/3e4ae191-e9e5-4f9a-a7a6-d53aaf002df3
+#EXTINF:-1 tvg-id="14" tvg-name="FIFA+ Spain (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/14/cache/" tvg-chno="14" group-title="Sports",FIFA+ Spain (720p)
+http://192.168.1.157/proxy/ts/stream/99a21ef2-1338-4438-8107-f66ad5b7aa8b
+#EXTINF:-1 tvg-id="15" tvg-name="Galicia TV Europa (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/15/cache/" tvg-chno="15" group-title="General;Public",Galicia TV Europa (720p)
+http://192.168.1.157/proxy/ts/stream/80d59ca0-7b85-4516-a74d-4e9a119d144f
+#EXTINF:-1 tvg-id="16" tvg-name="Guada TV (720p) [Not 24/7]" tvg-logo="http://192.168.1.157/api/channels/logos/16/cache/" tvg-chno="16" group-title="General",Guada TV (720p) [Not 24/7]
+http://192.168.1.157/proxy/ts/stream/629db54d-5411-47e0-a98e-cfeb1102c5e7
+#EXTINF:-1 tvg-id="21" tvg-name="Mega (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/21/cache/" tvg-chno="21" group-title="Entertainment",Mega (1080p)
+http://192.168.1.157/proxy/ts/stream/508fd48b-3944-48a2-80cc-181054d478d1
+#EXTINF:-1 tvg-id="22" tvg-name="Neox (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/22/cache/" tvg-chno="22" group-title="Entertainment",Neox (1080p)
+http://192.168.1.157/proxy/ts/stream/767f9949-453c-4bac-956d-c53aad3cb96d
+#EXTINF:-1 tvg-id="23" tvg-name="Nova (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/23/cache/" tvg-chno="23" group-title="Lifestyle",Nova (1080p)
+http://192.168.1.157/proxy/ts/stream/ee02dff9-18db-4225-9530-a1b711604168
+#EXTINF:-1 tvg-id="24" tvg-name="24 Horas (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/5/cache/" tvg-chno="24" group-title="News;Public",24 Horas (1080p)
+http://192.168.1.157/proxy/ts/stream/072f35ad-fffa-4fdf-96ae-ab738d03e2ca
+#EXTINF:-1 tvg-id="24" tvg-name="Pluto TV Archivos Forenses (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/24/cache/" tvg-chno="24" group-title="Documentary",Pluto TV Archivos Forenses (720p)
+http://192.168.1.157/proxy/ts/stream/81ce21bd-810c-4a07-ad16-171d3469a404
+#EXTINF:-1 tvg-id="25" tvg-name="Pluto TV Asesinatos de Midsomer (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/25/cache/" tvg-chno="25" group-title="Series",Pluto TV Asesinatos de Midsomer (720p)
+http://192.168.1.157/proxy/ts/stream/0cf96689-5dcf-459e-915c-06beccbdad04
+#EXTINF:-1 tvg-id="26" tvg-name="Pluto TV Cine Acción (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/26/cache/" tvg-chno="26" group-title="Movies",Pluto TV Cine Acción (720p)
+http://192.168.1.157/proxy/ts/stream/202ade58-1445-4cbe-bb9d-d0f7e078e087
+#EXTINF:-1 tvg-id="27" tvg-name="Pluto TV Cine Clásico (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/27/cache/" tvg-chno="27" group-title="Movies",Pluto TV Cine Clásico (720p)
+http://192.168.1.157/proxy/ts/stream/3c222932-53c7-4d17-87f3-8c2fe3391527
+#EXTINF:-1 tvg-id="28" tvg-name="Pluto TV Cine Estelar (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/28/cache/" tvg-chno="28" group-title="Movies",Pluto TV Cine Estelar (720p)
+http://192.168.1.157/proxy/ts/stream/8bfcdc34-9314-4d85-a624-b2af4782f9f4
+#EXTINF:-1 tvg-id="29" tvg-name="Pluto TV Cine Estelar Spain+" tvg-logo="http://192.168.1.157/api/channels/logos/28/cache/" tvg-chno="29" group-title="Movies",Pluto TV Cine Estelar Spain+
+http://192.168.1.157/proxy/ts/stream/9f34f35e-348b-44fe-92b7-23de1324d81f
+#EXTINF:-1 tvg-id="30" tvg-name="Pluto TV Cocina (720p) [Not 24/7]" tvg-logo="http://192.168.1.157/api/channels/logos/30/cache/" tvg-chno="30" group-title="Cooking",Pluto TV Cocina (720p) [Not 24/7]
+http://192.168.1.157/proxy/ts/stream/d690afe9-8d06-4770-ab08-f595db2cf84d
+#EXTINF:-1 tvg-id="31" tvg-name="Pluto TV Curro Jiménez (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/31/cache/" tvg-chno="31" group-title="Series",Pluto TV Curro Jiménez (720p)
+http://192.168.1.157/proxy/ts/stream/208064e5-3686-4a7d-a09d-468abf612028
+#EXTINF:-1 tvg-id="32" tvg-name="Pluto TV El Encantador de Perros (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/32/cache/" tvg-chno="32" group-title="Series",Pluto TV El Encantador de Perros (720p)
+http://192.168.1.157/proxy/ts/stream/88fe59c9-2660-4e97-887b-82cfed67ff0a
+#EXTINF:-1 tvg-id="33" tvg-name="Pluto TV Empeños a lo bestia (720p) [Not 24/7]" tvg-logo="http://192.168.1.157/api/channels/logos/33/cache/" tvg-chno="33" group-title="Series",Pluto TV Empeños a lo bestia (720p) [Not 24/7]
+http://192.168.1.157/proxy/ts/stream/40c31fb2-9723-4d60-9b10-b8a5313df1db
+#EXTINF:-1 tvg-id="34" tvg-name="Pluto TV Kids (720p) [Not 24/7]" tvg-logo="http://192.168.1.157/api/channels/logos/34/cache/" tvg-chno="34" group-title="Kids",Pluto TV Kids (720p) [Not 24/7]
+http://192.168.1.157/proxy/ts/stream/65b5adff-db2f-43f2-af9f-d3d923419f8d
+#EXTINF:-1 tvg-id="35" tvg-name="Pluto TV Los archivos del FBI (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/35/cache/" tvg-chno="35" group-title="Series",Pluto TV Los archivos del FBI (720p)
+http://192.168.1.157/proxy/ts/stream/06d37ed5-3ede-4a06-bebd-e885ad106d94
+#EXTINF:-1 tvg-id="36" tvg-name="Pluto TV MTV Music Made in Spain (720p) [Not 24/7]" tvg-logo="http://192.168.1.157/api/channels/logos/36/cache/" tvg-chno="36" group-title="Music",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
+http://192.168.1.157/proxy/ts/stream/dcc73001-fea2-4c47-8be2-42d202d00140
+#EXTINF:-1 tvg-id="37" tvg-name="Pluto TV MTV Tattoo A Dos (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/37/cache/" tvg-chno="37" group-title="Series",Pluto TV MTV Tattoo A Dos (720p)
+http://192.168.1.157/proxy/ts/stream/7d367eb2-844e-4c1a-9915-763ea769fea6
+#EXTINF:-1 tvg-id="38" tvg-name="Pluto TV Series Comedia (360p)" tvg-logo="http://192.168.1.157/api/channels/logos/38/cache/" tvg-chno="38" group-title="Comedy",Pluto TV Series Comedia (360p)
+http://192.168.1.157/proxy/ts/stream/6e1e08c2-dcc7-400c-ad58-6f0d6359d620
+#EXTINF:-1 tvg-id="39" tvg-name="Pluto TV Telenovelas (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/39/cache/" tvg-chno="39" group-title="Series",Pluto TV Telenovelas (720p)
+http://192.168.1.157/proxy/ts/stream/48cba71c-9610-40ab-9d02-47981a0ca7a7
+#EXTINF:-1 tvg-id="40" tvg-name="Pluto TV Thrillers Spain" tvg-logo="http://192.168.1.157/api/channels/logos/40/cache/" tvg-chno="40" group-title="Movies",Pluto TV Thrillers Spain
+http://192.168.1.157/proxy/ts/stream/267737b4-500d-44a0-867a-3532cb975aeb
+#EXTINF:-1 tvg-id="41" tvg-name="Pluto TV Toons Clásico (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/41/cache/" tvg-chno="41" group-title="Kids",Pluto TV Toons Clásico (720p)
+http://192.168.1.157/proxy/ts/stream/1efe9d10-c03a-433b-894c-40cd33f1f062
+#EXTINF:-1 tvg-id="42" tvg-name="Pluto TV Vaya semanita (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/42/cache/" tvg-chno="42" group-title="Comedy",Pluto TV Vaya semanita (720p)
+http://192.168.1.157/proxy/ts/stream/63e2f951-e3f6-4bd2-8d05-b33fb9a30cd4
+#EXTINF:-1 tvg-id="43" tvg-name="Rakuten TV Action Movies Spain (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/43/cache/" tvg-chno="43" group-title="Movies",Rakuten TV Action Movies Spain (1080p)
+http://192.168.1.157/proxy/ts/stream/788f7b73-fff7-46a5-a5bf-326f3661f087
+#EXTINF:-1 tvg-id="44" tvg-name="Rakuten TV Comedy Movies Spain (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/43/cache/" tvg-chno="44" group-title="Movies",Rakuten TV Comedy Movies Spain (1080p)
+http://192.168.1.157/proxy/ts/stream/61ba8c2f-70e5-42dc-8e88-14090c7f77bc
+#EXTINF:-1 tvg-id="45" tvg-name="Rakuten TV Drama Movies Spain (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/43/cache/" tvg-chno="45" group-title="Movies",Rakuten TV Drama Movies Spain (1080p)
+http://192.168.1.157/proxy/ts/stream/e8833753-62ab-42eb-a6b7-1d179a988211
+#EXTINF:-1 tvg-id="46" tvg-name="Rakuten TV Family Movies Spain (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/43/cache/" tvg-chno="46" group-title="Family;Movies",Rakuten TV Family Movies Spain (1080p)
+http://192.168.1.157/proxy/ts/stream/974d9e7e-97c9-4ce6-bbbf-a2e5a904e6f0
+#EXTINF:-1 tvg-id="47" tvg-name="Rakuten TV Top Movies Spain (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/43/cache/" tvg-chno="47" group-title="Movies",Rakuten TV Top Movies Spain (1080p)
+http://192.168.1.157/proxy/ts/stream/9a7d7f5e-0e54-4b24-9cfd-e3527769dd61
+#EXTINF:-1 tvg-id="48" tvg-name="Rakuten Viki (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/48/cache/" tvg-chno="48" group-title="Undefined",Rakuten Viki (1080p)
+http://192.168.1.157/proxy/ts/stream/5b859351-f08e-48a4-8d70-82618245ad8f
+#EXTINF:-1 tvg-id="49" tvg-name="Real Madrid TV (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/49/cache/" tvg-chno="49" group-title="Sports",Real Madrid TV (1080p)
+http://192.168.1.157/proxy/ts/stream/6a5d73d8-60d1-4b15-bb4a-330adda94689
+#EXTINF:-1 tvg-id="50" tvg-name="Sol Música (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/50/cache/" tvg-chno="50" group-title="Music",Sol Música (720p)
+http://192.168.1.157/proxy/ts/stream/075eb022-a4ba-485e-bc46-7d43601e9465
+#EXTINF:-1 tvg-id="51" tvg-name="Anime Vision Classics (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/1/cache/" tvg-chno="51" group-title="Animation",Anime Vision Classics (1080p)
+http://192.168.1.157/proxy/ts/stream/e8df018c-b4fe-41fb-b15b-cce3744d2565
+#EXTINF:-1 tvg-id="51" tvg-name="Squirrel 2 (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/51/cache/" tvg-chno="51" group-title="Series",Squirrel 2 (1080p)
+http://192.168.1.157/proxy/ts/stream/ba0b3873-c998-4859-9f23-5858d00ede82
+#EXTINF:-1 tvg-id="52" tvg-name="Anime Vision (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/2/cache/" tvg-chno="52" group-title="Animation",Anime Vision (1080p)
+http://192.168.1.157/proxy/ts/stream/873429b8-d0d5-4e29-a5f2-21da9db7d513
+#EXTINF:-1 tvg-id="52" tvg-name="Squirrel (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/52/cache/" tvg-chno="52" group-title="Movies;Series",Squirrel (1080p)
+http://192.168.1.157/proxy/ts/stream/c12f8e51-24a9-4360-b7c8-86942a30fc89
+#EXTINF:-1 tvg-id="53" tvg-name="Anime Zone TV (480p)" tvg-logo="http://192.168.1.157/api/channels/logos/3/cache/" tvg-chno="53" group-title="Animation",Anime Zone TV (480p)
+http://192.168.1.157/proxy/ts/stream/083f8139-0295-4829-85a8-d66b38749c60
+#EXTINF:-1 tvg-id="54" tvg-name="Teledeporte (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/54/cache/" tvg-chno="54" group-title="Sports",Teledeporte (1080p)
+http://192.168.1.157/proxy/ts/stream/506b74a2-0732-491d-9959-299928b83081
+#EXTINF:-1 tvg-id="55" tvg-name="Telemadrid Internacional (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/55/cache/" tvg-chno="55" group-title="General",Telemadrid Internacional (720p)
+http://192.168.1.157/proxy/ts/stream/8278af37-799d-4bfe-aaf4-a7c23c715804
+#EXTINF:-1 tvg-id="56" tvg-name="Telemadrid (720p)" tvg-logo="http://192.168.1.157/api/channels/logos/56/cache/" tvg-chno="56" group-title="Undefined",Telemadrid (720p)
+http://192.168.1.157/proxy/ts/stream/1c0ef2c6-efcb-4ddf-8cc8-2e29dd304dc7
+#EXTINF:-1 tvg-id="57" tvg-name="TeleVigo (1080p) [Not 24/7]" tvg-logo="http://192.168.1.157/api/channels/logos/57/cache/" tvg-chno="57" group-title="Undefined",TeleVigo (1080p) [Not 24/7]
+http://192.168.1.157/proxy/ts/stream/cb46783f-c112-4eef-b168-fb9b5801aeb8
+#EXTINF:-1 tvg-id="58" tvg-name="TEN (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/58/cache/" tvg-chno="58" group-title="Undefined",TEN (1080p)
+http://192.168.1.157/proxy/ts/stream/7c119b28-f700-463e-bcee-e9775b935d09
+#EXTINF:-1 tvg-id="59" tvg-name="Trece (1080p)" tvg-logo="http://192.168.1.157/api/channels/logos/59/cache/" tvg-chno="59" group-title="Religious",Trece (1080p)
+http://192.168.1.157/proxy/ts/stream/81d04810-ec33-41cb-b33d-f0d0527602a7
+#EXTINF:-1 tvg-id="60" tvg-name="TV3CAT (1080p) [Geo-blocked]" tvg-logo="http://192.168.1.157/api/channels/logos/60/cache/" tvg-chno="60" group-title="Undefined",TV3CAT (1080p) [Geo-blocked]
+http://192.168.1.157/proxy/ts/stream/f590844e-d529-4a39-9c76-be197a13dc65
+#EXTINF:-1 tvg-id="61" tvg-name="TVG2 (720p) [Geo-blocked]" tvg-logo="http://192.168.1.157/api/channels/logos/61/cache/" tvg-chno="61" group-title="General",TVG2 (720p) [Geo-blocked]
+http://192.168.1.157/proxy/ts/stream/b683f688-2514-4707-bf4f-f175af0b23a9
